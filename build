@@ -1,0 +1,5 @@
+{
+	"cmd": ["g++ -I /input/your/cppfolder/here/ -o /your/file/compiled/here/$file_base_name *.cpp && /your/file/compiled/here/$file_base_name"],
+	"working_dir": "$file_path",
+	"shell": true
+}
